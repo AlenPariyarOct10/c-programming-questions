@@ -3,9 +3,15 @@
 #include<string.h>
 
 /*
+-- BCA(Tribhuvan University)--2021
 Write a C program to store the player name, runs scored,
 wickets taken of 20 cricketers using structure along with pointer
 then arrange in order of maximum wickets to minimum wickets they had taken.
+*/
+
+/*
+Author : Alen Pariyar
+
 */
 
 struct data{
